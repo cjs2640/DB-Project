@@ -1,14 +1,14 @@
 //
-//  ViewController.swift
+//  LogicViewController.swift
 //  DBProject
 //
-//  Created by 박정수 on 2018. 6. 7..
+//  Created by 박정수 on 2018. 6. 6..
 //  Copyright © 2018년 박정수. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class LogicViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
